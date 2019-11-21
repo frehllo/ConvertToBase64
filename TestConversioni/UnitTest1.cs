@@ -9,7 +9,7 @@ namespace TestConversioni
         public void TestMethod1()
         {
             string risposta = Conversioni.ClasseBase64.Conv64();
-            Assert.AreEqual("Vm9ycmVpIHVuIDEw", risposta);
+            Assert.AreEqual("UHJvZiBGYWx1Y2NhLCBxdWEgZG92cmViYmUgdXNjaXJlIHVuIDEwLi4u", risposta);
         }
     }
 }
