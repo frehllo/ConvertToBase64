@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace TestConversioni
 {
     [TestClass]
-    public class UnitTest1
+    public class TestConv64
     {
         [TestMethod]
         public void TestMethod1()
